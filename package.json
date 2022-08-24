@@ -1,0 +1,19 @@
+{
+  "name": "demo_e2e_ui_test",
+  "version": "1.0.0",
+  "description": "Automatizacion de test github action con jenkins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "QA",
+    "automation",
+    "CI/CD"
+  ],
+  "author": "Mariela Hurtado",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^10.6.0"
+  }
+}
