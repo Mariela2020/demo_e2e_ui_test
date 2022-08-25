@@ -14,6 +14,6 @@
   "author": "Mariela Hurtado",
   "license": "ISC",
   "dependencies": {
-    "cypress": "^10.6.0"
+    "cypress": "^7.4.0"
   }
 }
